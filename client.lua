@@ -1,5 +1,5 @@
 --Original Author: rubbertoe98
---Edited & Patched By: Vyast
+--Edited & Patched By: WHF
 
 local takeHostage = {
 	allowedWeapons = {
